@@ -11,7 +11,7 @@ function addfact(){
   fact.innerHTML = text_fact.value
   const source = document.createElement("a")
   source.appendChild(document.createTextNode("(source)"))
-  source.href = "http://" + text_source.value
+  source.href = text_source.value
   source.target = "_blank"
   cate = document.createElement("span")
   cate.innerHTML = "➡️" + category.value
