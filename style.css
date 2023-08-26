@@ -1,0 +1,76 @@
+body {
+  background-color: #F5EFE7;
+  margin: ;
+}
+
+.title {
+  display: flex;
+  background: #C4C1A4;
+}
+
+.logo {
+  margin-right: 30px;
+}
+
+.heading {
+  
+}
+
+.category {
+  margin-top: 10px;  
+  display: flex;
+}
+
+.cat-btn {
+  background-color:#4F709C ;
+  color:blanchedalmond;
+  font-size: larger;
+  margin-right: 10px;
+}
+
+.form {
+  display: block;
+  border: 2px black solid;
+  margin: auto;
+}
+
+.btn {
+  border-radius: 15px;
+  height: 30px;
+  box-shadow: 3px 3px 20px black ;
+}
+
+.like {
+  background: #213555;
+  color:antiquewhite;
+}
+
+.dislike {
+  background:#213555;
+  color: antiquewhite;
+
+}
+
+.fire {
+  background:#213555;
+  color: antiquewhite;
+}
+
+.fact-category {
+  font-weight: bolder;
+  margin-left: 5px;
+}
+
+.fact {
+  display: flex;
+  font-size: x-large;
+}
+
+.react-btn-div {
+  display: block;
+}
+
+.input {
+  background-color:#D8C4B6 ;
+  font-size: medium;
+}
