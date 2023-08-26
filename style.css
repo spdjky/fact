@@ -36,7 +36,7 @@ body {
 .btn {
   border-radius: 15px;
   height: 30px;
-  box-shadow: 3px 3px 20px black ;
+  box-shadow: 5px 5px 12px grey ;
 }
 
 .like {
