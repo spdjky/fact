@@ -23,7 +23,7 @@ function addfact(){
   button_div.appendChild(btn1)
   btn2.innerHTML = "👎 <strong>" + eval("Math.floor(Math.random() * (34 - 3 + 1)) + 3") + "</strong>"
   button_div.appendChild(btn2)
-  btn3.innerHTML = "🔥 <strong" + eval("Math.floor(Math.random() * (34 - 3 + 1)) + 3") + "</strong>"
+  btn3.innerHTML = "🔥 <strong>" + eval("Math.floor(Math.random() * (34 - 3 + 1)) + 3") + "</strong>"
   button_div.appendChild(btn3)
 
   fact.classList.add("fact")
